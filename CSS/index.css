@@ -1,0 +1,21 @@
+div{
+  font-family:times new roman;
+}
+header{
+  margin-too:100px;
+  margin-bottom:50px;
+}
+body {
+  background-color:#00AAA0;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  position: relative;
+}
+p{
+  color:#00AAA0;
+}
+img {
+  width: 400px;
+  height: 400px;
+}
